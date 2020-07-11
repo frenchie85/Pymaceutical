@@ -40,6 +40,7 @@ As a senior data analyst at the company, you've been given access to the complet
 ## Pymaceutical Graphs ##
 * Bar and Pie charts
 ![](Assets/number%20of%20plots%20per%20med.png)
+* 
 ![](Assets/female%20vs%20male%20mice.png)
 
 * Quartiles, Outliers and Boxplots
@@ -47,6 +48,7 @@ As a senior data analyst at the company, you've been given access to the complet
 
 * Line and scatter plots
 ![](Assets/treatment%20on%20a%20mouse.png)
+* 
 ![](Assets/mouse%20weight%20vs%20tumor%20volume.png)
 
 * Correlation and regression
