@@ -37,25 +37,15 @@ As a senior data analyst at the company, you've been given access to the complet
 # Correlation and Regression #
 ![](Assets/correlation%20and%20regression.png)
 
-## Pymaceutical Graphs ##
-* Bar and Pie charts
+## Pymaceutical Graphs##
 ![](Assets/number%20of%20plots%20per%20med.png)
-* 
 ![](Assets/female%20vs%20male%20mice.png)
-
-* Quartiles, Outliers and Boxplots
 ![](Assets/tumor%20volume%20compare%20between%204%20med.png)
-
-* Line and scatter plots
 ![](Assets/treatment%20on%20a%20mouse.png)
-* 
 ![](Assets/mouse%20weight%20vs%20tumor%20volume.png)
-
-* Correlation and regression
 ![](Assets/mouse%20weight%20vs%20tumor%20volume%20w%20regression.png)
 
-
-## Three Observable Trends ##
+## Three Observable Trends##
 
 When we analyze the data on the medication *Capomulin*, we can observe three trends based on 248 mice over a study period of 45 days.
 We can say the Capomulin is definitely a viable medication to reduce tumor growth
@@ -64,12 +54,9 @@ There is a strong correlation between the mouse weight and the tumor volume with
 All the mouse had a tumor size increase except one for the Infubinol regimen. However the Capomulin stays in the lowest increase. 
 
 
-## Infographics ##
-* Scientific Poster
-  ![](Assets/POSTER.png)
-
-* Summary
-  ![](Assets/HOMEWORK5%20INFOGRAPHIC2.png)
+## Infographics##
+![](Assets/POSTER.png)
+![](Assets/HOMEWORK5%20INFOGRAPHIC2.png)
 
 ## Technologies used ##
 * Pandas Library: DataFrame.plot()
